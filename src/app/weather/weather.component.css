@@ -1,0 +1,16 @@
+.cont{
+    margin:20px;
+    border:2px solid;
+    padding:10px;
+    background-color: darkblue;
+    color:white;
+    text-align: center;
+    width: 400px;
+    height:200px;
+    align-self: center;
+}
+.div{
+    background-color:hotpink;
+    border-radius: 1px;
+    border-style:1px solid;
+}

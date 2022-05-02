@@ -1,0 +1,9 @@
+.text{
+    float:left;
+    padding:10px
+}
+.bodycolor{
+    background-image:linear-gradient(yellow,orange,white,grey,lightblue,blue);
+    width:1380px;
+    height:500px;
+}
